@@ -62,16 +62,4 @@ https://www.youtube.com/@maryess-en
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maryess&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maryess&theme=dark&hide_border=true&layout=compact" />
-</p>
-
----
-
-<p align="center">
-  <i>Consistency over perfection.</i>
-</p>
+<table> <tr> <td align="center"> <img src="https://github-readme-stats.vercel.app/api?username=maryess&theme=dark&hide_border=false&include_all_commits=false&count_private=false" /> </td> <td align="center"> <img src="https://nirzak-streak-stats.vercel.app/?user=maryess&theme=dark&hide_border=false" /> </td> </tr> <!-- Вторая строка - языки (объединенная ячейка) --> <tr> <td colspan="2" align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maryess&theme=dark&hide_border=false&layout=compact" /> </td> </tr> </table>
