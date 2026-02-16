@@ -62,4 +62,4 @@ https://www.youtube.com/@maryess-en
 
 ## 📊 GitHub Stats
 
-<table> <tr> <td align="center"> <img src="https://github-readme-stats.vercel.app/api?username=maryess&theme=dark&hide_border=false&include_all_commits=false&count_private=false" /> </td> <td align="center"> <img src="https://nirzak-streak-stats.vercel.app/?user=maryess&theme=dark&hide_border=false" /> </td> </tr> <!-- Вторая строка - языки (объединенная ячейка) --> <tr> <td colspan="2" align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maryess&theme=dark&hide_border=false&layout=compact" /> </td> </tr> </table>
+<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maryess/maryess/output/github-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maryess/maryess/output/github-snake.svg" /> <img alt="github-snake" src="https://raw.githubusercontent.com/maryess/maryess/output/github-snake.svg" /> </picture>
